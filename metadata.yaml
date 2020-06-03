@@ -1,0 +1,26 @@
+_repo: Devonshire-Witches_62273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Karkeek, Paul Q. (Paul Quick)
+    aliases:
+    - Karkeek, Paul Quick
+    - Karkeek, P. Q. (Paul Quick)
+    gutenberg_agent_id: '51864'
+    url: http://www.gutenberg.org/2009/agents/51864
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Trials (Witchcraft) -- England -- Devon'
+- !lcsh 'Witchcraft -- England -- Devon'
+- GITenberg
+title: Devonshire Witches
+url: http://www.gutenberg.org/ebooks/62273
